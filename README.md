@@ -1,3 +1,5 @@
+![BANNER](./assets/C.Map.png)
+
 ## my roadmap for learning C
 i currently make a decision to bring my stupid brain into the low level programming and stuff. so i decided to learn C first. here u can find any resources and stuff for learning C and low level stuff
 
