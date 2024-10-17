@@ -2,6 +2,7 @@
 here u can find the chapters, resources and codes and etc i learn from this book.
 
 ## Contents
+- Preface
 - Chapter 01: A Tutorial Introduction
     - 1.1: Getting Started
     - 1.2: Variables and Arthimetic Expression
