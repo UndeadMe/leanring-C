@@ -2,9 +2,9 @@
 here u can find the chapters, resources and codes and etc i learn from this book.
 
 ## Contents
-- Preface
+- [Preface](./preface/README.md)
 - Chapter 01: A Tutorial Introduction
-    - 1.1: Getting Started
+    - 1.1: [Getting Started](./chapter-01/1.1/main.c)
     - 1.2: Variables and Arthimetic Expression
     - 1.3 The For Statement
     - 1.4: Symbolic Constansts
