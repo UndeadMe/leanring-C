@@ -1,0 +1,2 @@
+## null-terminated string
+in C, a null-terminated string is a sequence of characters that ends with a special null characters `('\0')`. this null character indicates the end of the string, allowing functions to determine its length without needing an explicit lenght paramter.
