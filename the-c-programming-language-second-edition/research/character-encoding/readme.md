@@ -1,0 +1,2 @@
+- read this [article](https://www.geeksforgeeks.org/what-is-character-encoding-system/) from GeeksforGeeks to understand the character encoding
+- then read [this](https://en.wikipedia.org/wiki/Character_encoding) from wikipedia
